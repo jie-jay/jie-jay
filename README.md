@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently working on multi-agent deep reinforcement learning based cloud resource management system.
+### I'm currently working on multi-agent deep reinforcement learning based cloud resource management.
 
 <!--
 **jie-jay/jie-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
