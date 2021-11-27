@@ -2,6 +2,9 @@
 
 [![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jie-jay&count_private=true)](https://github.com/jie-jay)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jie-jay&langs_count=8)](https://github.com/jie-jay)
+
+
 
 <!--
 **jie-jay/jie-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
