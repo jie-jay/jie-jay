@@ -2,8 +2,7 @@
 My name is Jie(Jay), currently pursuing a PhD at the [CLOUDS](http://www.cloudbus.org) lab at the University of Melbourne.  
 My research interest includes machine learning, primarily (multi-agent) deep reinforcement learning for cloud resource management and optimisation.  
 
-Before start my PhD, I worked in a retail company as a software engineer -> IT Infrastructure Manager -> CTO.   
-I'm also a AWS certified solution architect.
+Before start my PhD, I worked in a retail company as a software engineer -> IT Infrastructure Manager -> CTO. I'm also a AWS certified solution architect.
 
 I have being programming since the late 1990s, started with x86 assembly and C.  
 I used two dozens of programming languages in my career(primarily Java/C#/Go), and currenly obsessed with Julia.   
