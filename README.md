@@ -11,7 +11,7 @@ I used two dozens of programming languages in my career(primarily Java/C#/Go), a
 My favourite OS is FreeBSD.
 I'm a hater of scripting language and ORM, they bite me too many times in the past.
 
-If you are willing to connect, I can be reached through [Linkedin](https://www.linkedin.com/in/jie-zhao-64843765).
+I can be reached through [Linkedin](https://www.linkedin.com/in/jie-zhao-64843765).
 
 
 [![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jie-jay&count_private=true&theme=github_dark)](https://github.com/jie-jay)   
