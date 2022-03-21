@@ -14,7 +14,7 @@ I can be reached through [Linkedin](https://www.linkedin.com/in/jie-zhao-6484376
 
 
 [![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jie-jay&count_private=true&theme=github_dark)](https://github.com/jie-jay)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jie-jay&langs_count=8&layout=compact&theme=github_dark)](https://github.com/jie-jay)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jie-jay&langs_count=8&layout=compact&theme=github_dark)](https://github.com/jie-jay) -->
 
 
 
